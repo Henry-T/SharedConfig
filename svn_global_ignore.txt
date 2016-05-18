@@ -1,0 +1,1 @@
+*.idea/tasks.xml *.idea/workspace.xml *.idea/misc.xml *.o *.lo *.la *.al .libs *.so.[0-9]* *.pyc *.pyo __pycache__ *.rej *~ #*# .#* .*.swp .DS_Store [Tt]humbs.db
